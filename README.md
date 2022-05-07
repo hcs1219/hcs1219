@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Hi!+I+am+hcs">
+<img src="https://readme-typing-svg.herokuapp.com?color=808080&lines=Hi!+I+am+hcs">
 
 # Discord
 
