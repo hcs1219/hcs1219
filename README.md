@@ -4,4 +4,4 @@
 
 # Github
 
-<a href="https://github.com/hcs1219"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcs1219"></a>
+<a href="https://github.com/hcs1219"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hcs1219&layout=compact"></a>
