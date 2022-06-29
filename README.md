@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com?color=808080&lines=Hi!+I+am+hcs">
+<img src="https://readme-typing-svg.herokuapp.com?color=808080&lines=UwU">
 
 # Discord
 
-<a href="https://discord.com/users/804712098625486848"><img src="https://discord.c99.nl/widget/theme-3/804712098625486848.png"></a>
+<a href="https://discord.com/users/804712098625486848"><img src="https://discord.c99.nl/widget/theme-2/804712098625486848.png"></a>
 
 # Github
 
